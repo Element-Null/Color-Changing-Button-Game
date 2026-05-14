@@ -1,0 +1,11 @@
+C:\Users\rickd\source\repos\ColorButtons\bin\Debug\ColorButtons.exe.config
+C:\Users\rickd\source\repos\ColorButtons\bin\Debug\ColorButtons.exe
+C:\Users\rickd\source\repos\ColorButtons\bin\Debug\ColorButtons.pdb
+C:\Users\rickd\source\repos\ColorButtons\obj\Debug\ColorButtons.csproj.AssemblyReference.cache
+C:\Users\rickd\source\repos\ColorButtons\obj\Debug\ColorButtons.Form1.resources
+C:\Users\rickd\source\repos\ColorButtons\obj\Debug\ColorButtons.Properties.Resources.resources
+C:\Users\rickd\source\repos\ColorButtons\obj\Debug\ColorButtons.csproj.GenerateResource.cache
+C:\Users\rickd\source\repos\ColorButtons\obj\Debug\ColorButtons.csproj.CoreCompileInputs.cache
+C:\Users\rickd\source\repos\ColorButtons\obj\Debug\ColorButtons.exe
+C:\Users\rickd\source\repos\ColorButtons\obj\Debug\ColorButtons.pdb
+C:\Users\rickd\source\repos\ColorButtons\obj\Debug\ColorButtons.exe.config
